@@ -1,5 +1,4 @@
 # zk-cluster
-zookeeper cluster
 
 zk-cluster/zk-1/bin/zkServer.sh start
 zk-cluster/zk-1/bin/zkServer.sh status

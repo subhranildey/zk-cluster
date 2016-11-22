@@ -2,10 +2,8 @@
 
 zk-cluster/zk-1/bin/zkServer.sh start
 zk-cluster/zk-1/bin/zkServer.sh status
-
 zk-cluster/zk-2/bin/zkServer.sh start
 zk-cluster/zk-2/bin/zkServer.sh status
-
 zk-cluster/zk-3/bin/zkServer.sh start
 zk-cluster/zk-3/bin/zkServer.sh status
 
